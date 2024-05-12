@@ -1,13 +1,10 @@
 -input "driver.dll" in "kdmapper.exe"
 
 
-
 -now open Fortnite
 
 
-
 -open "Fortnite by Blazeware.exe" in lobby
-
 
 
 -enjoy ;)
